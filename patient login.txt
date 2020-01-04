@@ -1,0 +1,118 @@
+<link rel="stylesheet" type="text/css" href="stylep.css">
+</head>
+<img src="contactg.jpg" height="35%" width="100%">
+<header>
+<nav>
+		<center>	
+			<div class='first'>
+					<a href="patient.php"><button type="submit" name="submit">Home</button></a>&nbsp;
+					<a href="profile.php"><button type="submit" name="submit">Profile</button>&nbsp;&nbsp;
+					<a href="Faculty.php"><button type="submit" name="submit">Payment</button>&nbsp;&nbsp;&nbsp;
+					<a href="Home.php"><button type="submit" name="submit">Logout</button>	
+			</div>
+			
+			</center>
+
+	</nav>
+	<marquee behavior="scroll" direction="left"><font face="verdana" color="green">Welcome to Healthify Portal!!!</font></marquee>
+	<marquee behavior="scroll" direction="right"><font face="verdana" color="green">Note: Please bring authenticated proof for any correction/s of existing data in the website......</font></marquee>
+	
+	</header>
+Patient profile:
+
+<link rel="stylesheet" type="text/css" href="stylep.css">
+</head>
+<img src="campusg.jpg" height="35%" width="100%">
+<header>
+<nav>
+		<center>	
+			<div class='first'>
+					<a href="patient.php"><button type="submit" name="submit">Home</button></a>&nbsp;
+					<a href="profile.php"><button type="submit" name="submit">Profile</button>&nbsp;&nbsp;
+					<a href="Faculty.php"><button type="submit" name="submit">Payment</button>&nbsp;&nbsp;&nbsp;
+					<a href="Home.php"><button type="submit" name="submit">Logout</button>	
+			</div>
+			
+			</center>
+
+	</nav>
+	<marquee behavior="scroll" direction="left"><font face="verdana" color="green">Welcome to Healthify Portal!!!</font></marquee>
+	<marquee behavior="scroll" direction="right"><font face="verdana" color="green">Note: Please bring authenticated proof for any correction/s of existing data in the website......</font></marquee>
+	
+	</header>
+	
+	
+	
+	
+	<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+</head>
+<body>
+<h2 style="text-align:center">Patient Profile</h2>
+<br>
+<img src="profilepicg.jpg" height="30%" width="20%">
+<div class="card">
+
+<h1>John Doe</h1>
+<br>
+<p><b>Father Name:</b>Joseph Doe</p>
+<br>
+<p><b>Age:</b>26</p>
+<br>
+<p><b>Phone:</b>9866325498</p>
+<br>
+<p><b>Email:</b>amkdcncad@gmail.com</p>
+<br>
+<p><b>Address:</b>H-NO 19-465 RR NAGAR JEEDIMETLA HYDERABAD-500067 TELANGANA INDIA.</p>
+
+
+<p><button>HEALTHIFY!!!</button></p>
+</div>
+
+</body>
+</html>
