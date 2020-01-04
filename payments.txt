@@ -1,0 +1,79 @@
+<link rel="stylesheet" type="text/css" href="stylep.css">
+<style>
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  align:center;
+  width: 100%;
+
+}
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #183987;
+  color: white;
+}
+</style>
+<img src="2g.jpg" height="35%" width="100%">
+<header>
+<nav>
+		<center>	
+			<div class='first'>
+					<a href="patient.php"><button type="submit" name="submit">Home</button></a>&nbsp;
+					<a href="profile.php"><button type="submit" name="submit">Profile</button>&nbsp;&nbsp;
+					<a href="Faculty.php"><button type="submit" name="submit">Payment</button>&nbsp;&nbsp;&nbsp;
+					<a href="Home.php"><button type="submit" name="submit">Logout</button>	
+			</div>
+			
+			</center>
+
+	</nav>
+	<marquee behavior="scroll" direction="left"><font face="verdana" color="green">Welcome to Healthify Portal!!!</font></marquee>
+	<marquee behavior="scroll" direction="right"><font face="verdana" color="green">Note: Please bring authenticated proof for any correction/s of existing data in the website......</font></marquee>
+	
+	</header>
+	<h1 align="center"><font face="verdana" color="blue">PAYMENT DETAILS</font></h1>
+	<br>	
+	<table align="center" id="customers" >
+<tr>
+<th>S No</th>
+<th>Attribute</th>
+<th>Amount</th>
+	<th>Paid(Y/N)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Diagnosis</td>
+<td>15000/-</td>
+	<td>N</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Diet</td>
+<td>5000/-</td>
+	<td>N</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Opetation</td>
+<td>55000/-</td>
+	<td>N</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Ward charges</td>
+<td>25000/-</td>
+	<td>N</td>
+</tr>
+
+</table>
