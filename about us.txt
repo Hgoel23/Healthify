@@ -1,0 +1,32 @@
+<?php
+include_once 'include.php';
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+</head>
+<body>
+	<img src="sch1.jpg" height="500px" width="100%">
+<h1 style="font-family: calibri;
+    color: #D2691E;
+    font-size: 30px;"><br><center>OUR MISSION</center></h1><br>
+<center><p style="font-family: calibri;font-size: 20px;color: black;">Our mission is to continuously improve the quality of healthcare services provided by us and to achieve and maintain excellence in healthcare, while seeking to generate strong financial performance and appropriate returns to our shareholders.</center></p>
+<h1 style="font-family: calibri;
+    color: #D2691E;
+    font-size: 30px;"><br><center>Hospital Motto</center></h1><br>
+<center><h3 style="font-family: calibri;color: black;font-size: 25px;">“Embracing Diversity, Celebrating Unity, Healthify All”</center></h3><br>
+<h1 style="font-family: calibri;
+    color: #D2691E;
+    font-size: 30px;"><center>Hospital Beliefs:  At Healthify of Ivy  we believe . . .</center></h1><br>
+
+<h4 style="font-family: calibri;color: black;"><center>•       Strengthen our existing hospitals and specialties</center></h4>
+
+<h4 style="font-family: calibri;color: black;"><center>•       Strengthen our presence in Andhra Pradesh and Telangana</center></h4>
+
+<h4 style="font-family: calibri;color: black;"><center>•       Expand our geographical presence through organic and inorganic expansion</center></h4>
+
+<h4 style="font-family: calibri;color: black;"><center>•       Continue to focus on cost efficiencies and implement initiatives to improve existing operational efficiencies</center></h4>
+<br><br><br><br><br>
+</body>
+</html>
