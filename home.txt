@@ -1,0 +1,40 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HALLS OF IVY</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="background-image: url('1g.jpg');background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;background-size: 1380px">
+<header>
+	<nav>
+		<center>	
+			<div class='first'>
+					<a href="Home.php"><button type="submit" name="submit">Home</button></a>
+					<a href="About.php"><button type="submit" name="submit">About Us</button>&nbsp;
+					<a href="adm.php"><button type="submit" name="submit">Admissions</button>&nbsp;
+					
+					<a href="Keyspeciality.php"><button type="submit" name="submit">Key Speciality</button>&nbsp;&nbsp;
+					<a href="Gallery.php"><button type="submit" name="submit">Gallery</button>&nbsp;
+					<a href="contact.php"><button type="submit" name="submit">Contact Us</button>	
+			</div>
+			<div class='second'>
+				<a href="logingg.php"><button type="submit" name="submit">Login</button>
+			</div>
+			</center>
+
+	</nav>
+</header>
+	<div class='third'>
+	<h1>HEALTHIFY</h1>
+	<h3 class='h3' color='#cc0000'>Healthy is the key to unlocking the world.</h3>
+	</div>
+</div>
+
+</body>
+
+			
