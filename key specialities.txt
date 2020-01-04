@@ -1,0 +1,32 @@
+<?php
+include_once 'include.php';
+?>
+<img src="campusg.jpg" alt="Italian Trulli" width="1340px" height="300px">
+<h1 align="center" style="font-family: calibri;font-size: 30px;"><font color="#D2691E">KEY SPECIALITIES OF HEALTHIFY</font></h1><br>
+
+<b  style="font-family: calibri;font-size: 20px;color:purple;">
+A few of our key specialties are described below. <br><br></b>
+
+<h2 style="font-family: calibri;font-size: 20px;"><font color="#D2691E">Cardiac sciences:</font></h2><br>
+<p style="font-family: calibri;color: black;">
+
+We provide a comprehensive range of cardiac services to treat all cardiovascular disorders, ranging from preventive programmes to complicated surgeries, including heart transplants. 
+We provide a range of diagnostic and therapeutic services and also offer sophisticated interventional cardiac procedures such as implanting cardioverter defibrillator. In addition, 
+we have a thoracic and cardiovascular surgery department which performs a large number of cardiac surgeries. By using superior medical equipments, we are also able to provide early 
+detection and management of cardiac disorders for our patients.</p><br>
+<h2 style="font-family: calibri;font-size: 20px;"><font color="#D2691E">
+Neurosciences:</font></h2><br>
+<p style="font-family: calibri;color: black;">
+We provide comprehensive care to patients with neurological disorders, including brain, spinal cord and peripheral nerve disorders. Equipped with advanced neuro-imaging and monitoring 
+technology, we offer specialized care for patients with a range of neurological diseases including Alzheimer’s disease and related dementia, Parkinson’s disease and other movement 
+disorders, multiple sclerosis, stroke, amyotrophic lateral sclerosis, neuromuscular diseases, epilepsy and brain tumours.<br><br>
+</p><br>
+<h2 style="font-family: calibri;font-size: 20px;"><font color="#D2691E">
+Oncology: </font>
+</h2><br>
+<p style="font-family: calibri;color: black;">
+We provide comprehensive care in all major areas of orthopaedics, including sports injuries, spine procedures, reconstructive procedures, arthroscopy, trauma and joint replacement. 
+Our surgeons combine surgical expertise with pioneering clinical and basic research in areas such as stimulation of bone and tissue repair and total joint reconstruction. We also 
+strive to provide the best and timely treatment in the fields of paediatric orthopaedics, common and rare injuries to the neck, spine, hip joints, and spine and disc problems.</p><br>
+
+
