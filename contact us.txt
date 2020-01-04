@@ -1,0 +1,40 @@
+<?php
+include_once 'include.php';
+?>
+<img src="contactg.jpg" alt="Italian Trulli" width="1365px" height="300px">
+<center><br>
+<h1 style="color:#D2691E;font-family: calibri;font-size: 35px;">Healthify </h1><br>
+<h2 style="font-family: calibri;font-size: 25px;color: black; ">Survey No 76, Khajaguda Village<br>
+Chitrapuri Colony Post, Hyderabad<br>
+Telangana - 500104<br>
+Phone : 040 2980 6765 /66<br>
+Office : info@ss.com<br>
+Admissions : admissions@hoihyderabad.com<br>
+Recruitment : recruit@hoihyderabad.com<br></h2>
+</center>
+
+Login:
+
+<?php
+session_start();
+?>
+<center>
+<head>
+<link rel="stylesheet" type="text/css" href="styler.css">
+</head>
+<body style="background-image: url('c3.jpg');">
+<div class="bg-img">
+<form action="includes/l.php" method="POST" class="container">
+<h1>PLEASE FILL THE DETAILS!</h1><br>
+<input type="text" placeholder="Enter Username" name="Username" required><br>
+<input type="password" placeholder="Enter Password" name="Password" required><br>
+<select class="dropdown" name="Loginas">
+<option>Patientt</option>
+<option>doctor</option>
+<option>Administrator</option>
+</select>
+<br><br>
+<button type="submit" class="btn">Submit</button>
+</div>
+</body>
+</center>
